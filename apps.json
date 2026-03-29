@@ -2,19 +2,19 @@
   "apps": [
     {
       "id": "com.fazlihan.firstaid",
-      "name": "İlk Yardım",
+      "name": "İlk Yardım - First Aid",
       "packageId": "com.fazlihan.firstaid",
       "iconUrl": "https://raw.githubusercontent.com/sfazlihan/publicnotes/main/icons/firstaid.png"
     },
     {
       "id": "com.fazlihan.imsakiye",
-      "name": "Luvia Ezan Vakti",
+      "name": "Luvia | Ezan Vakitleri & Namaz",
       "packageId": "com.fazlihan.imsakiye",
       "iconUrl": "https://raw.githubusercontent.com/sfazlihan/publicnotes/main/icons/luvia.png"
     },
     {
       "id": "com.jasp.wordle",
-      "name": "Wordle Arena",
+      "name": "Wordle Arena : Kelime Oyunu",
       "packageId": "com.jasp.wordle",
       "iconUrl": "https://raw.githubusercontent.com/sfazlihan/publicnotes/main/icons/wordle.png"
     },
