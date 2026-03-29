@@ -1,0 +1,34 @@
+{
+  "apps": [
+    {
+      "id": "com.fazlihan.firstaid",
+      "name": "İlk Yardım",
+      "packageId": "com.fazlihan.firstaid",
+      "iconUrl": "https://..."
+    },
+    {
+      "id": "com.fazlihan.imsakiye",
+      "name": "Luvia Ezan Vakti",
+      "packageId": "com.fazlihan.imsakiye",
+      "iconUrl": "https://..."
+    },
+    {
+      "id": "com.jasp.wordle",
+      "name": "Wordle Arena",
+      "packageId": "com.jasp.wordle",
+      "iconUrl": "https://..."
+    },
+    {
+      "id": "com.fazlihan.nfccore",
+      "name": "NFC Core | Read & Write",
+      "packageId": "com.fazlihan.nfccore",
+      "iconUrl": "https://..."
+    },
+    {
+      "id": "com.fazlihan.qrwizard",
+      "name": "QR Wizard",
+      "packageId": "com.fazlihan.qrwizard",
+      "iconUrl": "https://..."
+    }
+  ]
+}
